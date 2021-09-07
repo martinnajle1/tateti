@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tateti/static/css/main.9ea64863.chunk.css",
-    "main.js": "/tateti/static/js/main.92fa2c43.chunk.js",
-    "main.js.map": "/tateti/static/js/main.92fa2c43.chunk.js.map",
+    "main.css": "/tateti/static/css/main.15a09da9.chunk.css",
+    "main.js": "/tateti/static/js/main.c1b5c29d.chunk.js",
+    "main.js.map": "/tateti/static/js/main.c1b5c29d.chunk.js.map",
     "runtime-main.js": "/tateti/static/js/runtime-main.e287800f.js",
     "runtime-main.js.map": "/tateti/static/js/runtime-main.e287800f.js.map",
     "static/js/2.beb236e0.chunk.js": "/tateti/static/js/2.beb236e0.chunk.js",
     "static/js/2.beb236e0.chunk.js.map": "/tateti/static/js/2.beb236e0.chunk.js.map",
     "index.html": "/tateti/index.html",
-    "static/css/main.9ea64863.chunk.css.map": "/tateti/static/css/main.9ea64863.chunk.css.map",
+    "static/css/main.15a09da9.chunk.css.map": "/tateti/static/css/main.15a09da9.chunk.css.map",
     "static/js/2.beb236e0.chunk.js.LICENSE.txt": "/tateti/static/js/2.beb236e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e287800f.js",
     "static/js/2.beb236e0.chunk.js",
-    "static/css/main.9ea64863.chunk.css",
-    "static/js/main.92fa2c43.chunk.js"
+    "static/css/main.15a09da9.chunk.css",
+    "static/js/main.c1b5c29d.chunk.js"
   ]
 }

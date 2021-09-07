@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tateti/static/css/main.15a09da9.chunk.css",
-    "main.js": "/tateti/static/js/main.c1b5c29d.chunk.js",
-    "main.js.map": "/tateti/static/js/main.c1b5c29d.chunk.js.map",
+    "main.js": "/tateti/static/js/main.d86b9f8f.chunk.js",
+    "main.js.map": "/tateti/static/js/main.d86b9f8f.chunk.js.map",
     "runtime-main.js": "/tateti/static/js/runtime-main.e287800f.js",
     "runtime-main.js.map": "/tateti/static/js/runtime-main.e287800f.js.map",
     "static/js/2.beb236e0.chunk.js": "/tateti/static/js/2.beb236e0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e287800f.js",
     "static/js/2.beb236e0.chunk.js",
     "static/css/main.15a09da9.chunk.css",
-    "static/js/main.c1b5c29d.chunk.js"
+    "static/js/main.d86b9f8f.chunk.js"
   ]
 }

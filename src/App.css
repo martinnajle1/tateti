@@ -8,13 +8,19 @@
   flex-wrap: wrap;
 }
 
-.board {
+.cell {
   flex-basis: 30%;
   height: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
   border: 1px solid red;
+  background-color: white;
+  cursor: pointer;
+}
+
+.cell:disabled {
+  cursor: not-allowed;
 }
 
 .blueCircle {
